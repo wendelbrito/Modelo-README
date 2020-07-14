@@ -1,6 +1,6 @@
 # Modelo de README
 
-[! [HitCount] (http://hits.dwyl.com/wendelbrito/wendelbrito/Modelo-README.svg)] (http://hits.dwyl.com/wendelbrito/wendelbrito/Modelo-README)
+[![HitCount](http://hits.dwyl.com/wendelbrito/wendelbrito/Modelo-README.svg)](http://hits.dwyl.com/wendelbrito/wendelbrito/Modelo-README)
 
 - Somente um repositório de modelo README.
 
