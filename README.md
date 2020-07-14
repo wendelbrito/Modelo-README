@@ -2,7 +2,7 @@
 
 ![HitCount](https://hits.dwyl.com/wendelbrito/wendelbrito/meu-projeto-git.svg)
 
-- Somente um repositório de modelo de README.
+- Somente um repositório de modelo README.
 
 ## Inicio:
 Objetivo do projeto.
