@@ -18,10 +18,10 @@ npm run install
 ```
 
 ## Colocando em produçao:
-- Ex: Vercel
+- Ex:. Vercel
 
 ## Layout: 
-- O layout foi cirado utilizando a plataforma Figma. 
+- Ex:. O layout foi cirado utilizando a plataforma Figma. 
 
 ## Construído com:
 - [NextJS](https://nextjs.org/) -The React Framework.
@@ -37,4 +37,4 @@ npm run install
 
 ## Acknowledgments
 
-- Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com).
+- 
